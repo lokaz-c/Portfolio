@@ -372,11 +372,23 @@ a{
     color: #080808;
 }
 
-#recentworks a{
+#recentworks p{
     position: absolute;
     bottom: 0%;
     font-size: 1vw;
     color: rgb(143, 143, 143);
+}
+#recentworks a{
+   color: white;
+}
+
+#eff a{
+  text-decoration: none;
+  color: #080808;
+}
+#btnsm a{
+  text-decoration: none;
+  color: #080808;
 }
 
 #aboutme{
