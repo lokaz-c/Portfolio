@@ -343,6 +343,9 @@ h3{
     gap: 20px;
     flex-wrap: wrap;
 }
+.image-box{
+    width: 100%;
+}
 .project-box{
     position: relative;
     display: flex;
